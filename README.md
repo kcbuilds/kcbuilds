@@ -1,6 +1,7 @@
 ## Hey 👋, This is Karan Chaurasiya
 [![Gmail Badge](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karanchaurasiya.dev@gmail.com)](mailto:karanchaurasiya.dev@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-karanchaurasiya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanchaurasiya/)](https://www.linkedin.com/in/karanchaurasiya/) [![Github Badge](https://img.shields.io/badge/-kcbuilds-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kcbuilds/)](https://www.github.com/kcbuilds/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://karanchaurasiya.vercel.app//)](https://karanchaurasiya.vercel.app//) <p align='left'>A final-year MCA student and frontend developer.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanchaurasiya/) [![Github Badge](https://img.shields.io/badge/-kcbuilds-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kcbuilds/)](https://www.github.com/kcbuilds/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://karanchaurasiya.vercel.app//)](https://karanchaurasiya.vercel.app//)
+<p align='left'>A final-year MCA student and frontend developer.  
 I enjoy building responsive and user-friendly web applications.  
 Currently, I’m learning Java backend development to become a full-stack developer.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1uel0tOZISPMZ-rn6pVIyckYE51lxlRZm/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 
