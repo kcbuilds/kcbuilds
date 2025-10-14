@@ -1,4 +1,4 @@
-## Hey 👋, This is Karan Chaurasiya
+## <h1> Hey 👋, This is Karan Chaurasiya </h1>
 [![Gmail Badge](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karanchaurasiya.dev@gmail.com)](mailto:karanchaurasiya.dev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanchaurasiya/) [![Github Badge](https://img.shields.io/badge/-kcbuilds-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kcbuilds/)](https://www.github.com/kcbuilds/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://karanchaurasiya.vercel.app//)](https://karanchaurasiya.vercel.app//)
 <p align='left'>A final-year MCA student and frontend developer.  
