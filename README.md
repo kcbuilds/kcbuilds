@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karan Chaurasiya</h1>
+<h1 align="center">Hello 👋, I'm Karan Chaurasiya</h1><h4 align="left">I'm passionate about building responsive, user-friendly web applications and constantly improving my skills in modern frontend technologies.</h4>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thekaranchaurasiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karanchaurasiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanchaurasiya.dev@gmail.com) 
@@ -8,7 +9,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kcbuilds&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kcbuilds&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kcbuilds&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
