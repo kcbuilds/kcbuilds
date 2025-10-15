@@ -5,9 +5,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karanchaurasiya.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kcbuilds/)
 
-<p align='left'>A final-year MCA student and frontend developer.  
+<h5 align='left'>A final-year MCA student and frontend developer.  
 I enjoy building responsive and user-friendly web applications.  
-Currently, I’m learning Java backend development to become a full-stack developer.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1uel0tOZISPMZ-rn6pVIyckYE51lxlRZm/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+Currently, I’m learning Java backend development to become a full-stack developer.</h5><h align='left'> You can view my resume <a href='https://drive.google.com/file/d/1uel0tOZISPMZ-rn6pVIyckYE51lxlRZm/view?usp=drive_link ' target=_blank><u>here</u>.</a></h5>
 
 ## Skill
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
