@@ -11,8 +11,6 @@ Currently, I’m learning Java backend development to become a full-stack develo
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kcbuilds alt=kcbuilds /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kcbuilds&show_icons=true&include_all_commits=true)](https://github.com/kcbuilds/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcbuilds&layout=compact)](https://github.com/kcbuilds/github-readme-stats)
-
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kcbuilds&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/kcbuilds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcbuilds&layout=compact&theme=dark&hide_border=true)](https://github.com/kcbuilds/github-readme-stats)
 
