@@ -1,9 +1,10 @@
 ## <h1> Hey 👋, This is Karan Chaurasiya </h1>
-[![Gmail](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchaurasiya.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanchaurasiya/)
-[![GitHub](https://img.shields.io/badge/-kcbuilds-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcbuilds/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karanchaurasiya.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kcbuilds/)
+[![Gmail](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&height=26)](mailto:karanchaurasiya.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=flat-square&logo=linkedin&logoColor=white&height=26)](https://www.linkedin.com/in/karanchaurasiya/)
+[![GitHub](https://img.shields.io/badge/-kcbuilds-grey?style=flat-square&logo=github&logoColor=white&height=26)](https://github.com/kcbuilds/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white&height=26)](https://karanchaurasiya.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&height=26)](https://leetcode.com/u/kcbuilds/)
+
 
 <h5 align='left'>A final-year MCA student and frontend developer.  
 I enjoy building responsive and user-friendly web applications.  
