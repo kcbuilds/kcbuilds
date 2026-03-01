@@ -29,14 +29,14 @@ Currently, I’m learning Java backend development to become a full-stack develo
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white&height=28)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=flat-square&logo=netlify&logoColor=#00C7B7&height=28)
 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=kcbuilds alt=kcbuilds /> </p>
 
 
 
-## Github Stats
+<!-- ## Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kcbuilds&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/kcbuilds/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcbuilds&layout=compact&theme=dark&hide_border=true)](https://github.com/kcbuilds/github-readme-stats)
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kcbuilds alt=kcbuilds /> </p>
 
 
 <!-- [![Gmail](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchaurasiya.dev@gmail.com)
