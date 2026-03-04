@@ -38,8 +38,7 @@ Currently, I’m learning Java backend development to become a full-stack develo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcbuilds&layout=compact&theme=dark&hide_border=true)](https://github.com/kcbuilds/github-readme-stats)
 
 
-
-<!-- [![Gmail](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchaurasiya.dev@gmail.com)
+ [![Gmail](https://img.shields.io/badge/-karanchaurasiya.dev@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchaurasiya.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanchaurasiya/)
 [![GitHub](https://img.shields.io/badge/-kcbuilds-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcbuilds/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karanchaurasiya.vercel.app/)
